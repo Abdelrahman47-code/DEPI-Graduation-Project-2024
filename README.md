@@ -58,6 +58,6 @@ The **Disease Prediction System** leverages machine learning algorithms to provi
 ---
 
 ## 🔗 Links
-Presentation Link: Project Presentation
+Presentation Link: [Project Presentation](https://docs.google.com/presentation/d/1UFVqvaimTNMDJvoHd4FqZq3IRlXXI-6gbLvwErrYpmI/edit?usp=sharing)
 
 Feel free to connect with us and give suggestions!
