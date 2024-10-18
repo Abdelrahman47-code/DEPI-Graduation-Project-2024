@@ -51,11 +51,11 @@ The **Disease Prediction System** leverages machine learning algorithms to provi
 
 ## 👥 Team Members
 
-•	Abdelrahman Ahmed Eldaba – Data Scientist - [LinkedIn](https://www.linkedin.com/in/abdelrahmaneldaba)
-•	Mohamed Yasser Esmaeil – ML Engineer - [LinkedIn](http://www.linkedin.com/in/mohamed-dawaba-865074263)
-•	Mohamed Rabiee Abdallah - ML Engineer - [LinkedIn](https://www.linkedin.com/in/mohamed-rabie-6247862b6/)
-•	Khaled Emad Eddin Salem - ML Engineer - [LinkedIn](http://www.linkedin.com/in/khaled-emad-397751261)
-•	Refaat-Allah Tarek Elgohary - ML Engineer - [LinkedIn](https://www.linkedin.com/in/refaat-elgohary-07b94b2a3/)
+- Abdelrahman Ahmed Eldaba – Data Scientist - [LinkedIn](https://www.linkedin.com/in/abdelrahmaneldaba)
+- Mohamed Yasser Esmaeil – ML Engineer - [LinkedIn](http://www.linkedin.com/in/mohamed-dawaba-865074263)
+- Mohamed Rabiee Abdallah - ML Engineer - [LinkedIn](https://www.linkedin.com/in/mohamed-rabie-6247862b6/)
+- Khaled Emad Eddin Salem - ML Engineer - [LinkedIn](http://www.linkedin.com/in/khaled-emad-397751261)
+- Refaat-Allah Tarek Elgohary - ML Engineer - [LinkedIn](https://www.linkedin.com/in/refaat-elgohary-07b94b2a3/)
 
 ---
 
