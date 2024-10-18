@@ -6,10 +6,12 @@ The **Disease Prediction System** leverages machine learning algorithms to provi
 ---
 
 ## 🚀 **Features**
+- 🧠 **Generative Adversarial Networks (GANs):** Creates synthetic data based on random noise.
 - 🩺 **Disease Prediction:** Predicts potential diseases based on inputted symptoms.
 - 💊 **Medication Suggestions:** Recommends relevant medications and treatments.
 - 🧑‍⚕️ **Preventive Measures:** Provides advice on how to prevent certain diseases.
 - 📊 **Multiple Algorithms:** Uses different ML models for high prediction accuracy.
+- 📝 **MLflow Integration:** MLflow is used for experiment tracking and model management.
 - 📱 **User-Friendly Interface:** Easy-to-use interface for seamless interaction.
 
 ---
